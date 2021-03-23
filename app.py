@@ -258,7 +258,7 @@ colors = {
 }
 
 # Define working directory, later move to argparse,etc.
-WORKING_DIRECTORY = r'C:\Users\AF-JB\Documents\Code\report_converter'
+WORKING_DIRECTORY = r'C:\Users\User\Code'
 
 # Change into directory
 os.chdir(WORKING_DIRECTORY) 
